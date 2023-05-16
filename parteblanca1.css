@@ -1,0 +1,50 @@
+/* figuras */
+.stamps{
+    display:inline-flex;
+    flex-wrap: wrap;
+    text-align: left;
+    justify-content: center;    
+}
+
+.card{
+    margin: 15px;
+}
+
+button{
+    border: none;
+    font-weight: bold;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.yellow{
+    background-color: rgba(255, 201, 0);
+    border-radius: 5px;
+    font-family: 'Segoe UI', Aria, sans-serif;
+    font-size: 10px;
+    color: black;
+}
+
+.turquoise{
+    background-color: rgb(26, 148, 214);
+    border-radius: 5px;
+    font-family: 'Segoe UI', Aria, sans-serif;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+}
+
+.grey{
+    background-color: rgba(108, 117, 122);
+    border-radius: 5px;
+    font-family: 'Segoe UI', Aria, sans-serif;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+}
+
+.red{
+    background-color: rgb(220, 53, 70);
+    border-radius: 5px;
+    font-family: 'Segoe UI', Aria, sans-serif;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+}

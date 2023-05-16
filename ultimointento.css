@@ -1,0 +1,67 @@
+.responsive {
+    width: 100%;
+    height: auto;
+    filter: brightness(70%);
+    position: absolute;
+}
+
+.background-image{
+    width: 600px;
+    height: 400px;
+    background-color: transparent;
+    margin-left: 100px;
+    margin-top: 200px;
+    z-index: 1;
+    position: relative;
+    filter: opacity(1);
+    color: aliceblue;
+}
+#calle{
+    background-color: transparent;
+    filter: opacity(1);
+    color: aliceblue;
+    border-radius: 5px;
+    border: 1px solid white;
+    margin: 20px;
+    padding: 8px;
+}
+#arbol{
+    background-color: rgb(27, 173, 63);
+    filter: opacity(1);
+    color: aliceblue;
+    border-radius: 5px;
+    border: 1px solid rgb(27, 173, 63);
+    margin: 20px;
+    padding: 8px;
+    margin: auto 0;
+}
+
+
+
+
+
+
+/* #fotos{
+    border: solid orange 3px;
+}
+#honolulu{
+    background-color: rgb(53, 58, 64);
+    color: white; font-size: 25px;
+}
+#nuve{
+    font-size: 15px;
+    background-color: rgb(53, 58, 64);
+    border-radius: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    border: 1px solid white;
+}
+#nubes{
+    margin-top: 10px;
+    margin-left: 3px;
+    margin-right: 10px;
+}
+*/

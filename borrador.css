@@ -1,0 +1,10 @@
+div{
+    display: grid;
+    background-color: coral;
+    text-align: center;
+    display: grid;
+}
+
+th{
+    border: 1px solid;
+}
